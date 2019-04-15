@@ -2,6 +2,9 @@
 
 A simple calculator app, made to show capablities of Flutter
 
+<img alt="Calculator phone ui calculator" src="https://cdn.dribbble.com/users/2011899/screenshots/4812004/calculator.jpg">
+Inspired from the dribble post by Vineesh VA :https://dribbble.com/shots/4812004-Calculator
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
